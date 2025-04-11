@@ -1,0 +1,67 @@
+{
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-003f1154.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-faae6fc0.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-7d81a1a7.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-9169d8be.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-cea79b34.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-886c8611.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf": {
+    "file": "assets/fa-v4compatibility-455e8e72.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2": {
+    "file": "assets/fa-v4compatibility-335fd7d9.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2"
+  },
+  "node_modules/tw-elements/dist/js/tw-elements.umd.min.js?commonjs-entry": {
+    "file": "assets/tw-elements.umd.min-bc2aca0b.js",
+    "isEntry": true,
+    "src": "node_modules/tw-elements/dist/js/tw-elements.umd.min.js?commonjs-entry"
+  },
+  "public/images/banner-denuncia.webp": {
+    "file": "assets/banner-denuncia-744da46e.webp",
+    "src": "public/images/banner-denuncia.webp"
+  },
+  "public/images/bg-dashboard-videos.jpg": {
+    "file": "assets/bg-dashboard-videos-52afd973.jpg",
+    "src": "public/images/bg-dashboard-videos.jpg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-ae86beab.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/carruseltestimonio.css": {
+    "file": "assets/carruseltestimonio-65faedef.css",
+    "isEntry": true,
+    "src": "resources/css/carruseltestimonio.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-0325b697.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-fabb6531.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}

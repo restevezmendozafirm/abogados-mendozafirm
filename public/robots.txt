@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /vendor/
+Disallow: /node_modules/
+Sitemap: https://mendozafirm.com/inm-sitemap.xml
